@@ -1,0 +1,37 @@
+.footer {
+  position: sticky;
+  bottom: 0;
+  padding: 28px 20px 32px;
+  box-shadow: 0px -8px 30px 0px rgba(0, 0, 0, 0.03);
+  border-top: 1px solid $gray;
+  background: $white;
+
+  &--no-border {
+    border-top: 0;
+    box-shadow: none;
+  }
+
+  &__list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 8px;
+    column-gap: 12px;
+
+    li {
+      position: relative;
+      font-size: 14px;
+      line-height: 1.05;
+      white-space: nowrap;
+
+      a {
+        color: $black;
+        &:hover {
+          color: $mint;
+        }
+      }
+    }
+  }
+}

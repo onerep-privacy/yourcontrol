@@ -1,0 +1,41 @@
+@import '../variables';
+@import '../btn';
+
+.home {
+  text-align: center;
+  min-height: calc(100vh - 97px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__heading {
+    margin-bottom: 40px;
+
+    img {
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 1.2;
+      letter-spacing: -0.28px;
+    }
+  }
+
+  &__content {
+    max-width: 360px;
+    margin: 0 auto;
+    line-height: 1.45;
+
+    a {
+      font-weight: 700;
+      text-decoration: underline;
+    }
+  }
+
+  .btn {
+    margin-top: 56px;
+  }
+}
