@@ -1,0 +1,86 @@
+{
+  "dbsSections": [
+    {
+      "title": "Top 5 priorities",
+      "description": "Onerep recommends starting with these 5 companies to cut off a major supply of your data to people search sites, stopping its flow to the public web.",
+      "accented": "true",
+      "dataBrokerList": [
+        {
+          "dataBrokerName": "TransUnion"
+        },
+        {
+          "dataBrokerName": "LexisNexis"
+        },
+        {
+          "dataBrokerName": "Enformion"
+        },
+        {
+          "dataBrokerName": "Pipl"
+        },
+        {
+          "dataBrokerName": "People Data Labs"
+        }
+      ]
+    },
+    {
+      "title": "Other non-public data broker sites",
+      "description": "After addressing the 5 major suppliers of your data to the public web, move on to 15+ additional sites for greater control.",
+      "dataBrokerList": [
+        {
+          "dataBrokerName": "Experian"
+        },
+        {
+          "dataBrokerName": "Equifax"
+        },
+        {
+          "dataBrokerName": "CoreLogic"
+        },
+        {
+          "dataBrokerName": "Epsilon"
+        },
+        {
+          "dataBrokerName": "Acxiom"
+        },
+         {
+          "dataBrokerName": "Neustar"
+        },
+        {
+          "dataBrokerName": "AtData"
+        },
+        {
+          "dataBrokerName": "Zeta Global"
+        },
+        {
+          "dataBrokerName": "Alliant"
+        },
+        {
+          "dataBrokerName": "Lotame"
+        },
+        {
+          "dataBrokerName": "Data Axle"
+        },
+        {
+          "dataBrokerName": "The Bridge Corp"
+        },
+        {
+          "dataBrokerName": "PropertyRadar"
+        },
+        {
+          "dataBrokerName": "LiveRamp"
+        },
+        {
+          "dataBrokerName": "Thomson Reuters"
+        },
+        {
+          "dataBrokerName": "Arity"
+        },
+        {
+          "dataBrokerName": "Versium"
+        },
+        {
+          "dataBrokerName": "NetWise"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "YourControl",
+  "version": "1.0",
+  "description": "A free privacy tool courtesy of Onerep",
+  "permissions": ["activeTab", "scripting", "sidePanel"],
+  "action": {
+    "default_title": "YourControl",
+    "default_icon": "/icon.png"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "icons": {
+    "16": "/icon.png",
+    "48": "/icon.png",
+    "128": "/icon.png"
+  }
+}
