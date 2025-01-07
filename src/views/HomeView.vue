@@ -10,7 +10,7 @@ import { RouterLink } from 'vue-router';
     </div>
     <div class="home__content">
       <p>
-        Onerep’s free privacy tool puts you in control of your personal information with TransUnion and 20+ non-public
+        Onerep’s free privacy tool puts you in control of your personal information with TransUnion and 30+ non-public
         data brokers.
         <a href="https://onerep.com/blog/yourcontrol-free-data-broker-removal-extension" target="_blank">Learn more</a>
       </p>

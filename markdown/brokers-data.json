@@ -24,7 +24,7 @@
     },
     {
       "title": "Other non-public data broker sites",
-      "description": "After addressing the 5 major suppliers of your data to the public web, move on to 15+ additional sites for greater control.",
+      "description": "After addressing the 5 major suppliers of your data to the public web, move on to 28 additional sites for greater control.",
       "dataBrokerList": [
         {
           "dataBrokerName": "Experian"
@@ -41,7 +41,7 @@
         {
           "dataBrokerName": "Acxiom"
         },
-         {
+        {
           "dataBrokerName": "Neustar"
         },
         {
@@ -79,6 +79,36 @@
         },
         {
           "dataBrokerName": "NetWise"
+        },
+        {
+          "dataBrokerName": "Gravy Analytics"
+        },
+        {
+          "dataBrokerName": "Alesco Data"
+        },
+        {
+          "dataBrokerName": "Bombora"
+        },
+        {
+          "dataBrokerName": "Vericast"
+        },
+        {
+          "dataBrokerName": "Dynata"
+        },
+        {
+          "dataBrokerName": "Resonate"
+        },
+        {
+          "dataBrokerName": "Comscore"
+        },
+        {
+          "dataBrokerName": "Taboola"
+        },
+        {
+          "dataBrokerName": "IQVIA"
+        },
+        {
+          "dataBrokerName": "Affinity Solutions"
         }
       ]
     }
