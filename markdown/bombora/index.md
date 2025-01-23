@@ -1,6 +1,6 @@
 # Bombora
 
-Bombora is a B2B intent data provider that helps companies identify and act on behavioral signals that indicate purchasing intent. Bombora's services are commonly used in sales and marketing to improve lead generation, prioritize outreach, and target companies most likely to convert. 
+Bombora is a B2B intent data provider that helps companies identify and act on behavioral signals that indicate purchasing intent. Bombora's services are commonly used in sales and marketing to improve lead generation, prioritize outreach, and target companies most likely to convert.
 
 <details>
 <summary>Why try removing your data?</summary>
