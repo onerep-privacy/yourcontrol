@@ -1,6 +1,6 @@
 # Bombora
 
-Bombora is a B2B intent data provider that helps companies identify and act on behavioral signals that indicate purchasing intent. Bombora's services are commonly used in sales and marketing to improve lead generation, prioritize outreach, and target companies most likely to convert. 
+Bombora is a B2B intent data provider that helps companies identify and act on behavioral signals that indicate purchasing intent. Bombora's services are commonly used in sales and marketing to improve lead generation, prioritize outreach, and target companies most likely to convert.
 
 <details>
 <summary>Why try removing your data?</summary>
@@ -23,6 +23,8 @@ Additionally, **California residents have the right to opt-out** of the “sale�
 - **Deletion requests** are submitted via Bombora’s [Privacy Request Form](https://preferences.bombora.com/privacy).
 - **Opt-out requests** are submitted via Bombora’s [opt-out form](https://preferences.bombora.com/optout).
 
-Note that after submitting the forms you’ll need to verify your email address by following an email confirmation link.
+Please note that after submitting the forms, you’ll need to verify your email address by clicking the confirmation link sent to your inbox.
 
-Alternatively, you can email [privacy@bombora.com](mailto:privacy@bombora.com) with any questions or queries you have regarding your data.
+If you have any questions about your data, you can also reach out directly to [privacy@bombora.com](mailto:privacy@bombora.com).
+
+Once your request is submitted and your email is verified, Bombora will begin processing it. You can expect a “Do Not Sell or Share Request: Completed” confirmation email within a month.
